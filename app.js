@@ -485,7 +485,7 @@ export default function App() {
                 </div>
                 <div className="min-w-0 flex-1">
                   <span className="block text-[9px] sm:text-[10px] text-slate-400 font-mono">CALL / WHATSAPP</span>
-                  <span className="text-xs sm:text-sm font-bold text-slate-900 break-all">+977 980-0000000</span>
+                  <span className="text-xs sm:text-sm font-bold text-slate-900 break-all">+977 9865381214</span>
                 </div>
               </a>
 
